@@ -5,6 +5,9 @@ A mod made for the game spaceflight simulator.
 specifically to be used on the steam version of SFS (what everyone calls spaceflight simulator)
 
 
+also for some reason i cant upload the unity project so you wont be able to access these parts in unity just yet!
+
+
 
 
 # ------ABOUT------
