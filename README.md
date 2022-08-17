@@ -28,15 +28,16 @@ MONO engine - tiny low thrust and isp engine that uses monopropellant AKA hydraz
 
 hydrazine RCS - a normal RCS block that runs off of monopropellant AKA hydrazine, has more power than normal rcs
 
-hydrazine fuel tank - holds some hydrazine (i cant get the fuel to display in tons, only mass_units which is the same thing as normal tons)
+hydrazine fuel tank - holds some hydrazine 
 
-hydrogen fuel tank - holds some hydrogen (i cant get the fuel to display in tons, only mass_units which is the same thing as normal tons)
+hydrogen fuel tank - holds some hydrogen 
 
+BARGO capsule - capsule is to be larger than a normal capsule and has built in docking port and rotating hatch (do not dock bargo capsules to each other)
+
+methalox fuel tank - holds some methalox
 
 # PLANNED FEATURES IN ORDER
 
-
-BARGO capsule - holds 1 or 2 tons of hydrazine and has bargo engines mounted on the sides that use hydrazine, capsule is to be larger than a normal capsule
 
 special landing legs - literally just landing legs, maybe new shepard style
 
