@@ -38,14 +38,7 @@ methalox fuel tank - holds some methalox
 
 # PLANNED FEATURES IN ORDER
 
-
-special landing legs - literally just landing legs, maybe new shepard style
-
-cargo farings - could open up in multiple different ways (petal, one side, space shuttle style)
-
-mirror cell fission engine - extremely high ISP engine (in the thousands) that could use fissile material as fuel
-
-jet engines - only usable in atmospheres and has 10 tons of thrust or more with maybe up to 12000 ISP and would use jet fuel
+Your suggestions are next planned features (if I like them)
 
 
 
